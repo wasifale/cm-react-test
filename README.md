@@ -2,7 +2,7 @@
 
 Hi, this test is designed to test your frontend development skills, you must use   React and redux to solve this test.
 
-In this test you must clone [this](https://github.com/CM-AsadUmar/cm-react-test) and create a mathematical chat bot.
+In this test you must clone [this](https://github.com/wasifale/cm-react-test) and create a mathematical chat bot.
 
 # Behavior
 The chat bot will take an input message like "2+2" and will return 4. when you give an invalid input it should return a error message.
@@ -15,4 +15,4 @@ The chat bot will take an input message like "2+2" and will return 4. when you g
 
 
 # Submission
-send a link of the cloned repository to cmasadumar@gmail.com 
+send a link of the cloned repository to neelam@creativemorph.com
